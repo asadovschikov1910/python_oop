@@ -14,7 +14,7 @@ def test():
     lada = Car('Lada', '2015', color='red')
     lada.run()
     lada.color = 'blue'
-
+#gittest
     bmw = Car('BMW', 2020)
     bmw.run()
 
