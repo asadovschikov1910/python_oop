@@ -8,7 +8,7 @@ class AbstractCar(ABC):
     @abstractmethod
     def refuel(self):
         pass
-#dsa##
+#dsa##gfdgsadg
 class GasCar(AbstractCar):
     def start_engine(self):
         print("Запускаю бензиновый двигатель... РрррРРРрРрРр!")
